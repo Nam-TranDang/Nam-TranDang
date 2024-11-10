@@ -11,3 +11,8 @@
 <details>
 <summary>💎 More Info </summary>
 <br />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nam-TranDang&layout=compact&hide=css,html)
+
+<!--  ![Nam's github stats](https://github-readme-stats.vercel.app/api?username=Nam-David&count_private=true&show_icons=true&theme=onedark) -->
+</details>
