@@ -7,7 +7,6 @@
   + Via Linkedin: https://www.linkedin.com/in/namtrandang/
   + Via Gmail: namtrandang.work@gmail.com
 - 👑 Have a good day !!! ✨
-- Here is my previous git account: https://github.com/Nam-David
 <details>
 <summary>💎 More Info </summary>
 <br />
