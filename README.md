@@ -13,7 +13,23 @@
 
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nam-TranDang)-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nam-TranDang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<picture>
+  <source 
+    media="(prefers-color-scheme: dark)" 
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Nam-TranDang&layout=compact&theme=dark" 
+  />
+  <source 
+    media="(prefers-color-scheme: light)" 
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Nam-TranDang&layout=compact&theme=default" 
+  />
+  <img 
+    alt="Top Languages" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nam-TranDang&layout=compact&theme=default" 
+  />
+</picture>
+
+
 
 <!--  ![Nam's github stats](https://github-readme-stats.vercel.app/api?username=Nam-David&count_private=true&show_icons=true&theme=) -->
 </details>
